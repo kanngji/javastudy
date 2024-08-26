@@ -8,6 +8,8 @@ public class ClassStart3 {
         student1.age = 19;
         student1.grade = 70;
 
+        student1.grade = 100;
+
         // 객체를 생성하면 자바는 메모리 어딘가에 있는 이 객체에 접근 할 수 있는 참조값(주소)를 반환한다.
 
         Student student2;
