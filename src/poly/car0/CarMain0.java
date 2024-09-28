@@ -8,6 +8,11 @@ public class CarMain0 {
         driver.setK3Car(k3Car);
         driver.drive();
 
+        // ㅊㅜ가
+        Model3Car model3Car = new Model3Car();
+        driver.setK3Car(null);
+        driver.setModel3Car(model3Car);
+        driver.drive();
 
     }
 }
